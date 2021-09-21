@@ -1,3 +1,0 @@
-# weibo
-
-author sun
